@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrd-beginner&label=Profile%20views&color=0e75b6&style=flat" alt="mrd-beginner" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrd-beginner" alt="mrd-beginner" /></a> </p>
-
 - 🔭 I’m currently working at **PT Sumatera Kemasindo as Software Engineer**
 
 <h3 align="left">Connect with me:</h3>
