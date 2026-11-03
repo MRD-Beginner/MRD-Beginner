@@ -1,10 +1,5 @@
 <h2 align="left">Hi 👋! I'm Dalfi, someone who builds whatever is needed</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MRD-Beginner/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/MRD-Beginner/MRD-Beginner/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</p>
-
 <img align="right" height="150" src="https://i.pinimg.com/736x/4b/e6/7f/4be67f67f0fca883770e96112711ecbe.jpg" alt="Profile avatar" />
 
 <p align="center">
